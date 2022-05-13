@@ -4,3 +4,7 @@ html, body{
     margin: 0;
     height: 100%;
 }
+.id{
+    size: 16px;
+    color: bisque;
+}
